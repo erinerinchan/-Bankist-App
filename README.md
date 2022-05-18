@@ -3,6 +3,8 @@
 ## Description 
 'Bankist' App  is a project made based on the tutorial by instructor Jonas Schmedtmann on Udemy. It models after the design of common online banking websites. Edits have been made on the project's user interface. 
 
+<img width="1429" alt="Screenshot 2022-05-19 at 2 50 44 AM" src="https://user-images.githubusercontent.com/35587864/169127318-dd9bbe6d-1688-42dc-afb3-ec718f2b17f1.png">
+
 ## Link to the project 
 https://erinerinchan.github.io/-Bankist-App/
 
